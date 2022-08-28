@@ -1,2 +1,2 @@
 # Austin
-McGill
+High school java coding exercises
